@@ -161,16 +161,7 @@
   },
   {
     "ModuleName": "DataContectionSet",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\JefferyLi",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2023-02-28T15:20:55.7038608+08:00",
-    "ModuleType": 25,
-    "ToRemoveFiles": [
-      "DataConnectionSet.json"
-    ]
+    "ModuleType": 25
   },
   {
     "ModuleName": "Upload",
@@ -188,42 +179,18 @@
   },
   {
     "ModuleName": "Table/date",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\JefferyLi",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2023-02-28T15:21:15.1710004+08:00",
     "ModuleType": 7
   },
   {
     "ModuleName": "Table/student",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\JefferyLi",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2023-02-28T15:21:15.1710203+08:00",
     "ModuleType": 7
   },
   {
     "ModuleName": "Table/student_copy1",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\JefferyLi",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2023-02-28T15:21:15.1710226+08:00",
     "ModuleType": 7
   },
   {
     "ModuleName": "Table/table1",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\JefferyLi",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2023-02-28T15:21:15.17103+08:00",
     "ModuleType": 7
   }
 ]
