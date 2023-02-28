@@ -183,16 +183,7 @@
   },
   {
     "ModuleName": "Table/student",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\JefferyLi",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2023-02-28T15:28:33.0599546+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\student.json"
-    ]
+    "ModuleType": 7
   },
   {
     "ModuleName": "Table/student_copy1",
