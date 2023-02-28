@@ -174,7 +174,18 @@
       "UserName": "GRAPECITY\\JefferyLi",
       "Email": "example@example.com"
     },
-    "LockDateTime": "2023-02-28T12:05:57.5760216+08:00",
+    "LockDateTime": "2023-02-28T12:06:08.722985+08:00",
+    "ModuleType": 7,
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "Table/表2",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\JefferyLi",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2023-02-28T12:06:08.7229784+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   }
