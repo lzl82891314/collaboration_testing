@@ -1,0 +1,153 @@
+{
+  "Rows": {
+    "RowColumnAttachedInfos": {
+      "1": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "29": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      }
+    },
+    "Count": 31
+  },
+  "Cols": {
+    "RowColumnAttachedInfos": {
+      "1": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "52": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      }
+    },
+    "Count": 54
+  },
+  "Values": {
+    "6,20": "重置密码邮件发送成功",
+    "10,20": "重置密码的邮件已经发送到你的电子邮箱中。收到邮件后，请点击邮件中的链接。之后在弹出的网页中输入新密码。如果邮件没有送达，请与管理员联系。",
+    "18,20": "登录"
+  },
+  "AttachInfos": {
+    "18,20": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+            "PageName": "FGC_登录"
+          }
+        ],
+        "Text": "登录",
+        "AutoExecute": true,
+        "TemplateKey": "_RS_Main1"
+      }
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "FontFamily": 0,
+        "FontSize": 24.0,
+        "FontWeight": 1,
+        "Foreground": 2,
+        "Underline": false,
+        "Strikethrough": false
+      },
+      {
+        "FontFamily": 0,
+        "FontSize": 13.333333333333332,
+        "Foreground": 3,
+        "VerticalAlignment": 4,
+        "WordWrap": true,
+        "Underline": false,
+        "Strikethrough": false
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "Body",
+        "Bold",
+        "Text 1 25",
+        "Text 1 50",
+        "Top"
+      ]
+    },
+    "CellStyles": {
+      "6,20": 0,
+      "10,20": 1
+    },
+    "SheetStyle": {
+      "FontFamily": 0,
+      "Underline": false,
+      "Strikethrough": false
+    }
+  },
+  "Spans": [
+    "10,20,6,14",
+    "18,20,2,14",
+    "6,20,2,14"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "MobilePageName": "FGC_重置密码发送邮件成功_手机版",
+    "Title": "重置密码邮件发送成功",
+    "RowBreakLines": [],
+    "RepeatRangeSettings": [],
+    "IsBuiltInPage": true
+  },
+  "PrintInfo": {
+    "PaperSize": {},
+    "Margin": {}
+  },
+  "BackgroundPictures": [
+    {
+      "Name": "BackgroundPicture3",
+      "StyleInfo": {
+        "CornerRadius": 20.0,
+        "Fill": "#FFF6F6F8",
+        "StrokeDashType": 8,
+        "Stroke": "Background 1 -25",
+        "StrokeThickness": 0.0
+      },
+      "IsAutomaticStroke": false,
+      "IsAutomaticFill": false,
+      "Location": "340,80",
+      "Size": "400,360"
+    }
+  ]
+}//P6WJJkny9nGFq3itD2LzDzfYcUYqlp72ZH0uXM7GpMePGuFUemTPxBbaowNZjv6ruEvX5xlN+PBMW+TrRPkaY1aZM3GVIwwbb9JyGtxflHHd5rkaMejM9KDsqGF7v6QSyRdNG3Fr2IQuHxTCAlUEaC6e9VzzYGEsaB9lJbwiMxhK8y8YJx3GDw+MJsA5tK5ruY/jnEW/Lo+212YlwFOJ973ijqtrVLPrwR333EHS5j8yX9YtkcwYit8pufxXkOsLeoxuMT1fsk+Qn8wA/fLGgtk+IW9hhBfiEvTubHvRkrnOpFO+ly10LORHuw1fNikFjU/6CL+94KasMuvxeO5MZBX+2GJZnlXj3fJc7RAALA54VI7ScVcVonwxqTSgeQKkT/gvrG2mV1LKiWFtFaqxQAEUj7MMJR1iA9gC2JXmnpyHEDBrNGWzdMD7RPb7I2oS560SNKcytA2W8miusM8w/beqHo03VEPmJp8qqT3AZ0Ckz2RY9BXvLtr4yHqac6WuvutiDLh9PALVDgn2WPoVGr2spZvAe4L4e2fQj1x5++3QcAplNjqcKWZ238+QyRSYcLu1ypTqpka+1yM0Fos/0yUDpLSAIMrnAmlBdB2HQV7OoPTwnII3C2ciEd1fKHPgmTFmQ6hZPf7FKTIG7gYjxrmU/Er8TWw8DmgowgJlPrCyr/OVy7yTvGmPGsM5cBd1YieT8gdecV89Yjafw0NNnDfgOSMiR0K9y+xOOqDmGj41Jaxflzic/utFiFXKOFrMVMHzKnUgTRYsra/5VRZxD7zO8x3mJIKNbxy0iAl4c09RZX75+EV1KtYBW+/NLAIjE7J8b40T6e0K8HUI/jMwyWzwU7ncVD8SVwPrYBfMYg4+7qD7i/ePPlICdyxW2UWAQPieS/VbAqUVfaRW45hl5g==|920
