@@ -179,16 +179,7 @@
   },
   {
     "ModuleName": "Table/date",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\JefferyLi",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2023-02-28T15:27:01.0934669+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\date.json"
-    ]
+    "ModuleType": 7
   },
   {
     "ModuleName": "Table/student",
